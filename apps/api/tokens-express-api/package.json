@@ -1,0 +1,29 @@
+{
+  "name": "@sd4-express-figma/tokens-express-api",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "tokens-express-api",
+    "targets": {
+      "serve": {
+        "executor": "@nx/js:node",
+        "defaultConfiguration": "development",
+        "dependsOn": [
+          "build"
+        ],
+        "options": {
+          "buildTarget": "tokens-express-api:build",
+          "runBuildTargetDependencies": false
+        },
+        "configurations": {
+          "development": {
+            "buildTarget": "tokens-express-api:build:development"
+          },
+          "production": {
+            "buildTarget": "tokens-express-api:build:production"
+          }
+        }
+      }
+    }
+  }
+}
