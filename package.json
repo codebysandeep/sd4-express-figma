@@ -4,8 +4,11 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.21.2"
+  },
   "devDependencies": {
+    "@nx/express": "20.7.0",
     "@nx/js": "20.7.0",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
