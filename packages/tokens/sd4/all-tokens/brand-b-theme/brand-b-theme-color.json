@@ -1,0 +1,16 @@
+{
+    "brand-b-theme-color": {
+      "$type": "brand-b-theme-color",
+      "brand-b-theme-color/light/primary": {
+        "$value": "rgba(120, 255, 219, 1)",
+        "type": "color",
+        "collection": "tokens-theme",
+        "attributes": {
+          "category": "brand-b-theme-color",
+          "group": "tokens-theme",
+          "scopes": ["frame_fill", "shape_fill"]
+        }
+      }
+    }
+  }
+  

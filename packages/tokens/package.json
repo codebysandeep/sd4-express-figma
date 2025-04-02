@@ -1,0 +1,18 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "type": "module",
+  "files": [
+    "build",
+    "properties"
+  ],
+  "scripts": {
+    "tokens:build": "node ./build.js",
+    "tokens:clean": "rm -rf build"
+  },
+  "keywords": [],
+  "author": "UPADHYAY Sandeep",
+  "license": "ISC",
+  "description": "Design System - Multi Brand Tokens (CSS/SCSS/JS/JSON)"
+}

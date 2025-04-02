@@ -1,0 +1,16 @@
+{
+    "brand-a-color": {
+      "$type": "brand-a-color",
+      "brand-a-color/color/scheme/light/primary/primary": {
+        "$value": "rgba(237, 255, 97 1)",
+        "type": "color",
+        "collection": "tokens",
+        "attributes": {
+          "category": "brand-a-color",
+          "group": "tokens",
+          "scopes": ["frame_fill", "shape_fill"]
+        }
+      }
+    }
+  }
+  

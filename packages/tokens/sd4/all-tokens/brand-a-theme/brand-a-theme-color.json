@@ -1,0 +1,16 @@
+{
+    "brand-a-theme-color": {
+      "$type": "brand-a-theme-color",
+      "brand-a-theme-color/light/primary": {
+        "$value": "rgba(255, 120, 156, 1)",
+        "type": "color",
+        "collection": "tokens-theme",
+        "attributes": {
+          "category": "brand-a-theme-color",
+          "group": "tokens-theme",
+          "scopes": ["frame_fill", "shape_fill"]
+        }
+      }
+    }
+  }
+  

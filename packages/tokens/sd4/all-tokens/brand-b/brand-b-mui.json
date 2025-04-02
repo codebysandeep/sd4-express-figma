@@ -1,0 +1,15 @@
+{
+  "brand-b-mui": {
+    "$type": "brand-b-mui",
+    "brand-b-mui/palette/light/text/primary": {
+      "$value": "rgba(243, 255, 224, 1)",
+      "type": "color",
+      "collection": "tokens",
+      "attributes": {
+        "category": "brand-b-mui",
+        "group": "tokens",
+        "scopes": []
+      }
+    }
+  }
+}

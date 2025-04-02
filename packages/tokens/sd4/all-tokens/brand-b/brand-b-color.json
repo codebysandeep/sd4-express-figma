@@ -1,0 +1,15 @@
+{
+  "brand-b-color": {
+    "$type": "brand-b-color",
+    "brand-b-color/color/scheme/light/primary/primary": {
+      "$value": "rgba(115, 97, 255, 1)",
+      "type": "color",
+      "collection": "tokens",
+      "attributes": {
+        "category": "brand-b-color",
+        "group": "tokens",
+        "scopes": ["frame_fill", "shape_fill"]
+      }
+    }
+  }
+}
