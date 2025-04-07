@@ -10,6 +10,16 @@
           "group": "tokens",
           "scopes": ["frame_fill", "shape_fill"]
         }
+      },
+      "brand-b-color/color/scheme/light/primary/primary": {
+        "$value": "rgba(180, 190, 200 1)",
+        "type": "color",
+        "collection": "tokens",
+        "attributes": {
+          "category": "brand-a-color",
+          "group": "tokens",
+          "scopes": ["frame_fill", "shape_fill"]
+        }
       }
     }
   }
