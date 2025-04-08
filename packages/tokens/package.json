@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "tokens:build": "node ./build.js",
-    "tokens:clean": "rm -rf build"
+    "tokens:clean": "rimraf build"
   },
   "keywords": [],
   "author": "UPADHYAY Sandeep",

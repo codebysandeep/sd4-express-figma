@@ -23,6 +23,7 @@
     "@types/node": "~18.16.9",
     "nx": "20.7.0",
     "react-refresh": "^0.10.0",
+    "rimraf": "^6.0.1",
     "style-dictionary": "^4.3.3",
     "tslib": "^2.3.0",
     "typescript": "~5.7.2",
